@@ -110,8 +110,8 @@ id: Iran
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Iran/
-markerFolder: ./Iran/
+geojsonFolder: ./
+markerFolder: ./
 ```
 
 [name-en::Iran] 
