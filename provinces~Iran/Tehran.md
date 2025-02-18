@@ -1,30 +1,133 @@
 ---
-location: [ 35.5 , 51.4 ] 
+location:
+  - 35.5
+  - 51.4
 type: geo-Region
 title: Tehran
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- Tehran
-
+  - Tehran
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
 linkTitle: 
 keywords: 
 layout: 
 publishDate: 
 expiryDate: 
+has_id_wikidata: Q3616
+instance of:
+  - "[[/_Standards/WikiData/WD~megacity,174844]]"
+  - "[[/_Standards/WikiData/WD~global city,208511]]"
+  - "[[/_Standards/WikiData/WD~city of Iran,56557504]]"
+  - "[[/_Standards/WikiData/WD~national capital,108178728]]"
+twinned administrative body:
+  - "[[/_Standards/WikiData/WD~Pavlodar,486282]]"
+  - "[[/_Standards/WikiData/WD~Dubai,612]]"
+  - "[[/_Standards/WikiData/WD~Moscow,649]]"
+  - "[[/_Standards/WikiData/WD~Saint Petersburg,656]]"
+  - "[[/_Standards/WikiData/WD~Beijing,956]]"
+  - "[[/_Standards/WikiData/WD~Tbilisi,994]]"
+  - "[[/_Standards/WikiData/WD~Manila,1461]]"
+  - "[[/_Standards/WikiData/WD~Baghdad,1530]]"
+  - "[[/_Standards/WikiData/WD~Caracas,1533]]"
+  - "[[/_Standards/WikiData/WD~Havana,1563]]"
+  - "[[/_Standards/WikiData/WD~Budapest,1781]]"
+  - "[[/_Standards/WikiData/WD~Bangkok,1861]]"
+  - "[[/_Standards/WikiData/WD~Khartoum,1963]]"
+  - "[[/_Standards/WikiData/WD~Minsk,2280]]"
+  - "[[/_Standards/WikiData/WD~Sanaa,2471]]"
+  - "[[/_Standards/WikiData/WD~Brasília,2844]]"
+  - "[[/_Standards/WikiData/WD~Kinshasa,3838]]"
+  - "[[/_Standards/WikiData/WD~Pretoria,3926]]"
+  - "[[/_Standards/WikiData/WD~Kabul,5838]]"
+  - "[[/_Standards/WikiData/WD~Seoul,8684]]"
+  - "[[/_Standards/WikiData/WD~Dushanbe,9365]]"
+  - "[[/_Standards/WikiData/WD~Berlin,64]]"
+  - "[[/_Standards/WikiData/WD~Los Angeles,65]]"
+  - "[[/_Standards/WikiData/WD~London,84]]"
+  - "[[/_Standards/WikiData/WD~Kuwait City,35178]]"
+capital of:
+  - "[[/_Standards/WikiData/WD~Tehran Province,590866]]"
+  - "[[/_Standards/WikiData/WD~Tehran County,643031]]"
+  - "[[/_Standards/WikiData/WD~Qajar Iran,63158027]]"
+  - "[[/_Standards/WikiData/WD~Pahlavi Iran,107258515]]"
+  - "[[/_Standards/WikiData/WD~Iran,794]]"
+described by source:
+  - "[[/_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+  - "[[/_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+  - "[[/_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+  - "[[/_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
+  - "[[/_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+  - "[[/_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+  - "[[/_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+  - "[[/_Standards/WikiData/WD~Encyclopædia Britannica Ninth Edition,20096917]]"
+  - "[[/_Standards/WikiData/WD~Real'nyj slovar' klassicheskih drevnostej po Ljubkeru,30059240]]"
+located in time zone:
+  - "[[/_Standards/WikiData/WD~Iran Standard Time Zone,2392297]]"
+  - "[[/_Standards/WikiData/WD~UTC+03_30,6773]]"
+  - "[[/_Standards/WikiData/WD~UTC+04_30,6792]]"
+part of: "[[/_Standards/WikiData/WD~Greater Tehran,4092880]]"
+located in the administrative territorial entity: "[[/_Standards/WikiData/WD~Central District,5060982]]"
+legislative body: "[[/_Standards/WikiData/WD~Islamic City Council of Tehran,5123141]]"
+head of government: "[[/_Standards/WikiData/WD~Alireza Zakani,5950108]]"
+member of: "[[/_Standards/WikiData/WD~League of Historical Cities,9383972]]"
+owner of: "[[/_Standards/WikiData/WD~Shohada Stadium (Qods),17070322]]"
+demographics of topic: "[[/_Standards/WikiData/WD~demographics of Tehran,18205768]]"
+economy of topic: "[[/_Standards/WikiData/WD~economy of Tehran,55434109]]"
+coordinate location: Point(51.389722222 35.688888888)
+BHCL UUID:
+  - eccfc2d4-b836-4324-87bb-376ee1edebc3
+  - 7f5bd0ee-440a-4d44-8dbf-b9cb892ec7e0
+UN/LOCODE: IRTHR
+official website: https://www.tehran.ir/
+country: "[[/_Standards/WikiData/WD~Iran,794]]"
+official language: "[[/_Standards/WikiData/WD~Persian,9168]]"
+area: 686
+elevation above sea level: 1179
+local dialing code: "021"
+demonym:
+  - تهرانی
+  - طهراني
+  - طهرانية
+  - Tehrani
+  - Teheranano
+  - Téhéranais
+  - Téhéranaise
+OmegaWiki Defined Meaning: "346579"
+male population: 4324155
+female population: 4369551
+population: 8693706
+nighttime view: http://commons.wikimedia.org/wiki/Special:FilePath/4758976353%20tehran%20b.jpg
+flag image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Tehran.svg
+pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Teheran.wav
+image: http://commons.wikimedia.org/wiki/Special:FilePath/North%20of%20tehran.jpg
+locator map image: http://commons.wikimedia.org/wiki/Special:FilePath/Tehran.png
+page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Tehran%20banner.jpg
+panoramic view: http://commons.wikimedia.org/wiki/Special:FilePath/Tehran%20in%20a%20clean%20day.jpg
+U.S. National Archives Identifier: "10044343"
+postal code: 13ххх-15ххх
+Provenio UUID: 7d1324e3-23d0-470b-b044-75ed32d16611
+Krugosvet article: Earth_sciences/geografiya/TEGERAN.html
+Libris-URI: rp3545w922vdm7l
+GitHub topic: tehran
+Commons category: Tehran
+subreddit: Tehran
+hashtag: Tehran
+Commons gallery: تهران
+native label: تهران
+official name: تهران
+nickname: دار السلطنه
+inception: 1794-03-20T00:00:00Z
 ---
 
 # Tehran
@@ -38,6 +141,23 @@ geojsonFolder: ./Tehran/
 markerFolder: ./Tehran/
 ```
 
+## #has_/text_of_/abstract
+
+> **Tehran** (; Persian: تهران [tehˈɾɒːn] , Tehrân) is the capital and largest city of Iran. In addition to serving as the capital of Tehran province, the city is the administrative center for Tehran County and its Central District. With a population of around 9.8 million in the city as of 2025, and 16.8 million in the metropolitan area, Tehran is the most populous city in Iran and Western Asia, the second-largest metropolitan area in the Middle East after Cairo, and the 24th most populous metropolitan area in the world. Greater Tehran includes several municipalities, including, Karaj,  Eslamshahr, Shahriar, Qods, Malard, Golestan, Pakdasht,  Qarchak, Nasimshahr, Parand, Pardis, Andisheh and Fardis.
+>
+> In the classical antiquity, part of the territory of present-day Tehran was occupied by Rhages (now Ray), a prominent Median city almost entirely destroyed in the medieval Arab, Turkic, and Mongol invasions. Modern Ray was absorbed into the metropolitan area of Greater Tehran.
+>
+> Tehran was first chosen as the capital of Iran by Agha Mohammad Khan of the Qajar dynasty in 1786, because of its proximity to Iran's territories in the Caucasus, then separated from Iran in the Russo-Iranian Wars, to avoid the vying factions of the previously ruling Iranian dynasties. The capital has been moved several times throughout history, however, and Tehran became the 32nd capital of Iran. Large-scale construction works began in the 1920s, and Tehran became a destination for mass migrations from all over Iran since the 20th century.
+>
+> Tehran is home to many historical sites, including the World Heritage Site Golestan Palace of Qajar dynasty and Sa'dabad, Niavaran and Marmar Palace of Pahlavi dynasty. Tehran's landmarks include the Azadi Tower, a memorial built in 1971 to mark the 2,500th anniversary of the Persian Empire, the Milad Tower, the world's sixth-tallest self-supporting tower, completed in 2007, another famous landmark in Tehran is the Tabiat Bridge, completed in 2014.
+>
+> Most of the population are Persian, with roughly 99% of them speaking the Persian language, alongside other ethnolinguistic groups in the city which became Persianised and assimilated.
+>
+> Tehran is served by Imam Khomeini International Airport, alongside the domestic Mehrabad Airport, a central railway station, Tehran Metro, a bus rapid transit system, trolleybuses, and a large network of highways.
+>
+> Plans to relocate the capital from Tehran to another area due to air pollution and earthquakes have not been approved so far. A 2016 survey of 230 cities across the globe by Mercer ranked Tehran 203rd for quality of life. According to the Global Destinations Cities Index in 2016, Tehran is among the top ten fastest growing destinations. In 2016, the Tehran City Council declared 6 October to be Tehran Day, celebrating the date in 1907 when the city officially became the capital of Iran.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Tehran) 
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Iran/Counties/Tehran|Tehran]] 
