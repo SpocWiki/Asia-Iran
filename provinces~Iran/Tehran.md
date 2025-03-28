@@ -1,23 +1,23 @@
----
+﻿---
 location:
-  - 35.5
-  - 51.4
+- 35.5
+- 51.4
 type: geo-Region
 title: Tehran
-license: CC BY-SA 4.0
-source: https://datahub.io/core/country-codes
+license: "CC BY-SA 4.0"
+source: "https://datahub.io/core/country-codes"
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
 tags:
-  - geo/Country/Region
+- geo/Country/Region
 aliases:
-  - Tehran
+- Tehran
 Languages:
-  - de
+- de
 cssclasses:
-  - geo-Region
+- geo-Region
 publish: true
 linkTitle: 
 keywords: 
@@ -25,109 +25,109 @@ layout:
 publishDate: 
 expiryDate: 
 has_id_wikidata: Q3616
-instance of:
-  - "[[/_Standards/WikiData/WD~megacity,174844]]"
-  - "[[/_Standards/WikiData/WD~global city,208511]]"
-  - "[[/_Standards/WikiData/WD~city of Iran,56557504]]"
-  - "[[/_Standards/WikiData/WD~national capital,108178728]]"
-twinned administrative body:
-  - "[[/_Standards/WikiData/WD~Pavlodar,486282]]"
-  - "[[/_Standards/WikiData/WD~Dubai,612]]"
-  - "[[/_Standards/WikiData/WD~Moscow,649]]"
-  - "[[/_Standards/WikiData/WD~Saint Petersburg,656]]"
-  - "[[/_Standards/WikiData/WD~Beijing,956]]"
-  - "[[/_Standards/WikiData/WD~Tbilisi,994]]"
-  - "[[/_Standards/WikiData/WD~Manila,1461]]"
-  - "[[/_Standards/WikiData/WD~Baghdad,1530]]"
-  - "[[/_Standards/WikiData/WD~Caracas,1533]]"
-  - "[[/_Standards/WikiData/WD~Havana,1563]]"
-  - "[[/_Standards/WikiData/WD~Budapest,1781]]"
-  - "[[/_Standards/WikiData/WD~Bangkok,1861]]"
-  - "[[/_Standards/WikiData/WD~Khartoum,1963]]"
-  - "[[/_Standards/WikiData/WD~Minsk,2280]]"
-  - "[[/_Standards/WikiData/WD~Sanaa,2471]]"
-  - "[[/_Standards/WikiData/WD~Brasília,2844]]"
-  - "[[/_Standards/WikiData/WD~Kinshasa,3838]]"
-  - "[[/_Standards/WikiData/WD~Pretoria,3926]]"
-  - "[[/_Standards/WikiData/WD~Kabul,5838]]"
-  - "[[/_Standards/WikiData/WD~Seoul,8684]]"
-  - "[[/_Standards/WikiData/WD~Dushanbe,9365]]"
-  - "[[/_Standards/WikiData/WD~Berlin,64]]"
-  - "[[/_Standards/WikiData/WD~Los Angeles,65]]"
-  - "[[/_Standards/WikiData/WD~London,84]]"
-  - "[[/_Standards/WikiData/WD~Kuwait City,35178]]"
-capital of:
-  - "[[/_Standards/WikiData/WD~Tehran Province,590866]]"
-  - "[[/_Standards/WikiData/WD~Tehran County,643031]]"
-  - "[[/_Standards/WikiData/WD~Qajar Iran,63158027]]"
-  - "[[/_Standards/WikiData/WD~Pahlavi Iran,107258515]]"
-  - "[[/_Standards/WikiData/WD~Iran,794]]"
-described by source:
-  - "[[/_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[/_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[/_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-  - "[[/_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-  - "[[/_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-  - "[[/_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[/_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-  - "[[/_Standards/WikiData/WD~Encyclopædia Britannica Ninth Edition,20096917]]"
-  - "[[/_Standards/WikiData/WD~Real'nyj slovar' klassicheskih drevnostej po Ljubkeru,30059240]]"
-located in time zone:
-  - "[[/_Standards/WikiData/WD~Iran Standard Time Zone,2392297]]"
-  - "[[/_Standards/WikiData/WD~UTC+03_30,6773]]"
-  - "[[/_Standards/WikiData/WD~UTC+04_30,6792]]"
-part of: "[[/_Standards/WikiData/WD~Greater Tehran,4092880]]"
-located in the administrative territorial entity: "[[/_Standards/WikiData/WD~Central District,5060982]]"
-legislative body: "[[/_Standards/WikiData/WD~Islamic City Council of Tehran,5123141]]"
-head of government: "[[/_Standards/WikiData/WD~Alireza Zakani,5950108]]"
-member of: "[[/_Standards/WikiData/WD~League of Historical Cities,9383972]]"
-owner of: "[[/_Standards/WikiData/WD~Shohada Stadium (Qods),17070322]]"
-demographics of topic: "[[/_Standards/WikiData/WD~demographics of Tehran,18205768]]"
-economy of topic: "[[/_Standards/WikiData/WD~economy of Tehran,55434109]]"
-coordinate location: Point(51.389722222 35.688888888)
-BHCL UUID:
-  - eccfc2d4-b836-4324-87bb-376ee1edebc3
-  - 7f5bd0ee-440a-4d44-8dbf-b9cb892ec7e0
-UN/LOCODE: IRTHR
-official website: https://www.tehran.ir/
-country: "[[/_Standards/WikiData/WD~Iran,794]]"
-official language: "[[/_Standards/WikiData/WD~Persian,9168]]"
+instance_of:
+- '[[/_Standards/WikiData/WD~megacity,174844]]'
+- "[[/_Standards/WikiData/WD~global city,208511]]"
+- "[[/_Standards/WikiData/WD~city of Iran,56557504]]"
+- "[[/_Standards/WikiData/WD~national capital,108178728]]"
+twinned_administrative_body:
+- '[[/_Standards/WikiData/WD~Pavlodar,486282]]'
+- '[[/_Standards/WikiData/WD~Dubai,612]]'
+- '[[/_Standards/WikiData/WD~Moscow,649]]'
+- "[[/_Standards/WikiData/WD~Saint Petersburg,656]]"
+- '[[/_Standards/WikiData/WD~Beijing,956]]'
+- '[[/_Standards/WikiData/WD~Tbilisi,994]]'
+- '[[/_Standards/WikiData/WD~Manila,1461]]'
+- '[[/_Standards/WikiData/WD~Baghdad,1530]]'
+- '[[/_Standards/WikiData/WD~Caracas,1533]]'
+- '[[/_Standards/WikiData/WD~Havana,1563]]'
+- '[[/_Standards/WikiData/WD~Budapest,1781]]'
+- '[[/_Standards/WikiData/WD~Bangkok,1861]]'
+- '[[/_Standards/WikiData/WD~Khartoum,1963]]'
+- '[[/_Standards/WikiData/WD~Minsk,2280]]'
+- '[[/_Standards/WikiData/WD~Sanaa,2471]]'
+- '[[/_Standards/WikiData/WD~Brasília,2844]]'
+- '[[/_Standards/WikiData/WD~Kinshasa,3838]]'
+- '[[/_Standards/WikiData/WD~Pretoria,3926]]'
+- '[[/_Standards/WikiData/WD~Kabul,5838]]'
+- '[[/_Standards/WikiData/WD~Seoul,8684]]'
+- '[[/_Standards/WikiData/WD~Dushanbe,9365]]'
+- '[[/_Standards/WikiData/WD~Berlin,64]]'
+- "[[/_Standards/WikiData/WD~Los Angeles,65]]"
+- '[[/_Standards/WikiData/WD~London,84]]'
+- "[[/_Standards/WikiData/WD~Kuwait City,35178]]"
+capital_of:
+- "[[/_Standards/WikiData/WD~Tehran Province,590866]]"
+- "[[/_Standards/WikiData/WD~Tehran County,643031]]"
+- "[[/_Standards/WikiData/WD~Qajar Iran,63158027]]"
+- "[[/_Standards/WikiData/WD~Pahlavi Iran,107258515]]"
+- '[[/_Standards/WikiData/WD~Iran,794]]'
+described_by_source:
+- "[[/_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[/_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[/_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+- "[[/_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
+- "[[/_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+- "[[/_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[/_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+- "[[/_Standards/WikiData/WD~Encyclopædia Britannica Ninth Edition,20096917]]"
+- "[[/_Standards/WikiData/WD~Real'nyj slovar' klassicheskih drevnostej po Ljubkeru,30059240]]"
+located_in_time_zone:
+- "[[/_Standards/WikiData/WD~Iran Standard Time Zone,2392297]]"
+- '[[/_Standards/WikiData/WD~UTC+03_30,6773]]'
+- '[[/_Standards/WikiData/WD~UTC+04_30,6792]]'
+part_of: "[[/_Standards/WikiData/WD~Greater Tehran,4092880]]"
+located_in_the_administrative_territorial_entity: "[[/_Standards/WikiData/WD~Central District,5060982]]"
+legislative_body: "[[/_Standards/WikiData/WD~Islamic City Council of Tehran,5123141]]"
+head_of_government: "[[/_Standards/WikiData/WD~Alireza Zakani,5950108]]"
+member_of: "[[/_Standards/WikiData/WD~League of Historical Cities,9383972]]"
+owner_of: "[[/_Standards/WikiData/WD~Shohada Stadium (Qods),17070322]]"
+demographics_of_topic: "[[/_Standards/WikiData/WD~demographics of Tehran,18205768]]"
+economy_of_topic: "[[/_Standards/WikiData/WD~economy of Tehran,55434109]]"
+coordinate_location: "Point(51.389722222 35.688888888)"
+BHCL_UUID:
+- eccfc2d4-b836-4324-87bb-376ee1edebc3
+- 7f5bd0ee-440a-4d44-8dbf-b9cb892ec7e0
+UN_LOCODE: IRTHR
+official_website: "https://www.tehran.ir/"
+country: '[[/_Standards/WikiData/WD~Iran,794]]'
+official_language: '[[/_Standards/WikiData/WD~Persian,9168]]'
 area: 686
-elevation above sea level: 1179
-local dialing code: "021"
+elevation_above_sea_level: 1179
+local_dialing_code: 021
 demonym:
-  - تهرانی
-  - طهراني
-  - طهرانية
-  - Tehrani
-  - Teheranano
-  - Téhéranais
-  - Téhéranaise
-OmegaWiki Defined Meaning: "346579"
-male population: 4324155
-female population: 4369551
+- تهرانی
+- طهراني
+- طهرانية
+- Tehrani
+- Teheranano
+- Téhéranais
+- Téhéranaise
+OmegaWiki_Defined_Meaning: 346579
+male_population: 4324155
+female_population: 4369551
 population: 8693706
-nighttime view: http://commons.wikimedia.org/wiki/Special:FilePath/4758976353%20tehran%20b.jpg
-flag image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Tehran.svg
-pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Teheran.wav
-image: http://commons.wikimedia.org/wiki/Special:FilePath/North%20of%20tehran.jpg
-locator map image: http://commons.wikimedia.org/wiki/Special:FilePath/Tehran.png
-page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Tehran%20banner.jpg
-panoramic view: http://commons.wikimedia.org/wiki/Special:FilePath/Tehran%20in%20a%20clean%20day.jpg
-U.S. National Archives Identifier: "10044343"
-postal code: 13ххх-15ххх
-Provenio UUID: 7d1324e3-23d0-470b-b044-75ed32d16611
-Krugosvet article: Earth_sciences/geografiya/TEGERAN.html
-Libris-URI: rp3545w922vdm7l
-GitHub topic: tehran
-Commons category: Tehran
+nighttime_view: "http://commons.wikimedia.org/wiki/Special:FilePath/4758976353%20tehran%20b.jpg"
+flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Tehran.svg"
+pronunciation_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Teheran.wav"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/North%20of%20tehran.jpg"
+locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Tehran.png"
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Tehran%20banner.jpg"
+panoramic_view: "http://commons.wikimedia.org/wiki/Special:FilePath/Tehran%20in%20a%20clean%20day.jpg"
+U_S_National_Archives_Identifier: 10044343
+postal_code: 13ххх-15ххх
+Provenio_UUID: 7d1324e3-23d0-470b-b044-75ed32d16611
+Krugosvet_article: Earth_sciences/geografiya/TEGERAN.html
+Libris_URI: rp3545w922vdm7l
+GitHub_topic: tehran
+Commons_category: Tehran
 subreddit: Tehran
 hashtag: Tehran
-Commons gallery: تهران
-native label: تهران
-official name: تهران
-nickname: دار السلطنه
-inception: 1794-03-20T00:00:00Z
+Commons_gallery: تهران
+native_label: تهران
+official_name: تهران
+nickname: "دار السلطنه"
+inception: "1794-03-20T00:00:00Z"
 ---
 
 # Tehran
