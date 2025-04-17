@@ -27,14 +27,14 @@ expiryDate:
 has_id_wikidata: Q3616
 instance_of:
 - '[[/_Standards/WikiData/WD~megacity,174844]]'
-- "[[/_Standards/WikiData/WD~global city,208511]]"
-- "[[/_Standards/WikiData/WD~city of Iran,56557504]]"
-- "[[/_Standards/WikiData/WD~national capital,108178728]]"
+- "[[/_Standards/WikiData/WD~global_city,208511]]"
+- "[[/_Standards/WikiData/WD~city_of_Iran,56557504]]"
+- "[[/_Standards/WikiData/WD~national_capital,108178728]]"
 twinned_administrative_body:
 - '[[/_Standards/WikiData/WD~Pavlodar,486282]]'
 - '[[/_Standards/WikiData/WD~Dubai,612]]'
 - '[[/_Standards/WikiData/WD~Moscow,649]]'
-- "[[/_Standards/WikiData/WD~Saint Petersburg,656]]"
+- "[[/_Standards/WikiData/WD~Saint_Petersburg,656]]"
 - '[[/_Standards/WikiData/WD~Beijing,956]]'
 - '[[/_Standards/WikiData/WD~Tbilisi,994]]'
 - '[[/_Standards/WikiData/WD~Manila,1461]]'
@@ -53,37 +53,37 @@ twinned_administrative_body:
 - '[[/_Standards/WikiData/WD~Seoul,8684]]'
 - '[[/_Standards/WikiData/WD~Dushanbe,9365]]'
 - '[[/_Standards/WikiData/WD~Berlin,64]]'
-- "[[/_Standards/WikiData/WD~Los Angeles,65]]"
+- "[[/_Standards/WikiData/WD~Los_Angeles,65]]"
 - '[[/_Standards/WikiData/WD~London,84]]'
-- "[[/_Standards/WikiData/WD~Kuwait City,35178]]"
+- "[[/_Standards/WikiData/WD~Kuwait_City,35178]]"
 capital_of:
-- "[[/_Standards/WikiData/WD~Tehran Province,590866]]"
-- "[[/_Standards/WikiData/WD~Tehran County,643031]]"
-- "[[/_Standards/WikiData/WD~Qajar Iran,63158027]]"
-- "[[/_Standards/WikiData/WD~Pahlavi Iran,107258515]]"
+- "[[/_Standards/WikiData/WD~Tehran_Province,590866]]"
+- "[[/_Standards/WikiData/WD~Tehran_County,643031]]"
+- "[[/_Standards/WikiData/WD~Qajar_Iran,63158027]]"
+- "[[/_Standards/WikiData/WD~Pahlavi_Iran,107258515]]"
 - '[[/_Standards/WikiData/WD~Iran,794]]'
 described_by_source:
-- "[[/_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[/_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[/_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[/_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-- "[[/_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[/_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[/_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-- "[[/_Standards/WikiData/WD~Encyclopædia Britannica Ninth Edition,20096917]]"
-- "[[/_Standards/WikiData/WD~Real'nyj slovar' klassicheskih drevnostej po Ljubkeru,30059240]]"
+- "[[/_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[/_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[/_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+- "[[/_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[/_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+- "[[/_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
+- "[[/_Standards/WikiData/WD~Real'nyj_slovar'_klassicheskih_drevnostej_po_Ljubkeru,30059240]]"
 located_in_time_zone:
-- "[[/_Standards/WikiData/WD~Iran Standard Time Zone,2392297]]"
+- "[[/_Standards/WikiData/WD~Iran_Standard_Time_Zone,2392297]]"
 - '[[/_Standards/WikiData/WD~UTC+03_30,6773]]'
 - '[[/_Standards/WikiData/WD~UTC+04_30,6792]]'
-part_of: "[[/_Standards/WikiData/WD~Greater Tehran,4092880]]"
-located_in_the_administrative_territorial_entity: "[[/_Standards/WikiData/WD~Central District,5060982]]"
-legislative_body: "[[/_Standards/WikiData/WD~Islamic City Council of Tehran,5123141]]"
-head_of_government: "[[/_Standards/WikiData/WD~Alireza Zakani,5950108]]"
-member_of: "[[/_Standards/WikiData/WD~League of Historical Cities,9383972]]"
-owner_of: "[[/_Standards/WikiData/WD~Shohada Stadium (Qods),17070322]]"
-demographics_of_topic: "[[/_Standards/WikiData/WD~demographics of Tehran,18205768]]"
-economy_of_topic: "[[/_Standards/WikiData/WD~economy of Tehran,55434109]]"
+part_of: "[[/_Standards/WikiData/WD~Greater_Tehran,4092880]]"
+located_in_the_administrative_territorial_entity: "[[/_Standards/WikiData/WD~Central_District,5060982]]"
+legislative_body: "[[/_Standards/WikiData/WD~Islamic_City_Council_of_Tehran,5123141]]"
+head_of_government: "[[/_Standards/WikiData/WD~Alireza_Zakani,5950108]]"
+member_of: "[[/_Standards/WikiData/WD~League_of_Historical_Cities,9383972]]"
+owner_of: "[[/_Standards/WikiData/WD~Shohada_Stadium_(Qods),17070322]]"
+demographics_of_topic: "[[/_Standards/WikiData/WD~demographics_of_Tehran,18205768]]"
+economy_of_topic: "[[/_Standards/WikiData/WD~economy_of_Tehran,55434109]]"
 coordinate_location: "Point(51.389722222 35.688888888)"
 BHCL_UUID:
 - eccfc2d4-b836-4324-87bb-376ee1edebc3
