@@ -40,11 +40,18 @@ markerFolder: ./Kohgiluyeh_and_Buyer_Ahmad/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Iran/Counties/Kohgiluyeh_and_Buyer_Ahmad|Kohgiluyeh_and_Buyer_Ahmad]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Iran/Counties/Kohgiluyeh_and_Buyer_Ahmad.public|Kohgiluyeh_and_Buyer_Ahmad.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Counties/Kohgiluyeh_and_Buyer_Ahmad.internal|Kohgiluyeh_and_Buyer_Ahmad.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Counties/Kohgiluyeh_and_Buyer_Ahmad.protect|Kohgiluyeh_and_Buyer_Ahmad.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Iran/Counties/Kohgiluyeh_and_Buyer_Ahmad.private|Kohgiluyeh_and_Buyer_Ahmad.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Counties/Kohgiluyeh_and_Buyer_Ahmad.personal|Kohgiluyeh_and_Buyer_Ahmad.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Counties/Kohgiluyeh_and_Buyer_Ahmad.secret|Kohgiluyeh_and_Buyer_Ahmad.secret]] 
+
+### #is_/same_as :: [Kohgiluyeh_and_Buyer_Ahmad](/_Standards/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Kohgiluyeh_and_Buyer_Ahmad.md) 
+
+### #is_/same_as :: [Kohgiluyeh_and_Buyer_Ahmad.public](/_public/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Kohgiluyeh_and_Buyer_Ahmad.public.md) 
+
+### #is_/same_as :: [Kohgiluyeh_and_Buyer_Ahmad.internal](/_internal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Kohgiluyeh_and_Buyer_Ahmad.internal.md) 
+
+### #is_/same_as :: [Kohgiluyeh_and_Buyer_Ahmad.protect](/_protect/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Kohgiluyeh_and_Buyer_Ahmad.protect.md) 
+
+### #is_/same_as :: [Kohgiluyeh_and_Buyer_Ahmad.private](/_private/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Kohgiluyeh_and_Buyer_Ahmad.private.md) 
+
+### #is_/same_as :: [Kohgiluyeh_and_Buyer_Ahmad.personal](/_personal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Kohgiluyeh_and_Buyer_Ahmad.personal.md) 
+
+### #is_/same_as :: [Kohgiluyeh_and_Buyer_Ahmad.secret](/_secret/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Kohgiluyeh_and_Buyer_Ahmad.secret.md)
 

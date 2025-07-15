@@ -39,11 +39,18 @@ markerFolder: ./Qom/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Iran/Counties/Qom|Qom]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Iran/Counties/Qom.public|Qom.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Counties/Qom.internal|Qom.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Counties/Qom.protect|Qom.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Iran/Counties/Qom.private|Qom.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Counties/Qom.personal|Qom.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Counties/Qom.secret|Qom.secret]] 
+
+### #is_/same_as :: [Qom](/_Standards/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Qom.md) 
+
+### #is_/same_as :: [Qom.public](/_public/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Qom.public.md) 
+
+### #is_/same_as :: [Qom.internal](/_internal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Qom.internal.md) 
+
+### #is_/same_as :: [Qom.protect](/_protect/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Qom.protect.md) 
+
+### #is_/same_as :: [Qom.private](/_private/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Qom.private.md) 
+
+### #is_/same_as :: [Qom.personal](/_personal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Qom.personal.md) 
+
+### #is_/same_as :: [Qom.secret](/_secret/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Qom.secret.md)
 

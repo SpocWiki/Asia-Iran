@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 35.5
 - 51.4
@@ -159,12 +159,20 @@ markerFolder: ./Tehran/
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tehran) 
 
+
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Iran/Counties/Tehran|Tehran]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Iran/Counties/Tehran.public|Tehran.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Counties/Tehran.internal|Tehran.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Counties/Tehran.protect|Tehran.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Iran/Counties/Tehran.private|Tehran.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Counties/Tehran.personal|Tehran.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Counties/Tehran.secret|Tehran.secret]] 
+
+### #is_/same_as :: [Tehran](/_Standards/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Tehran.md) 
+
+### #is_/same_as :: [Tehran.public](/_public/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Tehran.public.md) 
+
+### #is_/same_as :: [Tehran.internal](/_internal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Tehran.internal.md) 
+
+### #is_/same_as :: [Tehran.protect](/_protect/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Tehran.protect.md) 
+
+### #is_/same_as :: [Tehran.private](/_private/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Tehran.private.md) 
+
+### #is_/same_as :: [Tehran.personal](/_personal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Tehran.personal.md) 
+
+### #is_/same_as :: [Tehran.secret](/_secret/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Tehran.secret.md)
 

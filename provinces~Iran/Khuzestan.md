@@ -40,11 +40,18 @@ markerFolder: ./Khuzestan/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Iran/Counties/Khuzestan|Khuzestan]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Iran/Counties/Khuzestan.public|Khuzestan.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Counties/Khuzestan.internal|Khuzestan.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Counties/Khuzestan.protect|Khuzestan.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Iran/Counties/Khuzestan.private|Khuzestan.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Counties/Khuzestan.personal|Khuzestan.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Counties/Khuzestan.secret|Khuzestan.secret]] 
+
+### #is_/same_as :: [Khuzestan](/_Standards/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Khuzestan.md) 
+
+### #is_/same_as :: [Khuzestan.public](/_public/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Khuzestan.public.md) 
+
+### #is_/same_as :: [Khuzestan.internal](/_internal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Khuzestan.internal.md) 
+
+### #is_/same_as :: [Khuzestan.protect](/_protect/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Khuzestan.protect.md) 
+
+### #is_/same_as :: [Khuzestan.private](/_private/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Khuzestan.private.md) 
+
+### #is_/same_as :: [Khuzestan.personal](/_personal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Khuzestan.personal.md) 
+
+### #is_/same_as :: [Khuzestan.secret](/_secret/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Khuzestan.secret.md)
 

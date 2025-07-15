@@ -40,11 +40,18 @@ markerFolder: ./Markazi/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Iran/Counties/Markazi|Markazi]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Iran/Counties/Markazi.public|Markazi.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Counties/Markazi.internal|Markazi.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Counties/Markazi.protect|Markazi.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Iran/Counties/Markazi.private|Markazi.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Counties/Markazi.personal|Markazi.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Counties/Markazi.secret|Markazi.secret]] 
+
+### #is_/same_as :: [Markazi](/_Standards/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Markazi.md) 
+
+### #is_/same_as :: [Markazi.public](/_public/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Markazi.public.md) 
+
+### #is_/same_as :: [Markazi.internal](/_internal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Markazi.internal.md) 
+
+### #is_/same_as :: [Markazi.protect](/_protect/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Markazi.protect.md) 
+
+### #is_/same_as :: [Markazi.private](/_private/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Markazi.private.md) 
+
+### #is_/same_as :: [Markazi.personal](/_personal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Markazi.personal.md) 
+
+### #is_/same_as :: [Markazi.secret](/_secret/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Markazi.secret.md)
 

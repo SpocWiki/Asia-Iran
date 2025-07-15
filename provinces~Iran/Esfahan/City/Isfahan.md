@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Iran/City/Isfahan|Isfahan]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Iran/City/Isfahan.public|Isfahan.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Iran/City/Isfahan.internal|Isfahan.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Iran/City/Isfahan.protect|Isfahan.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Iran/City/Isfahan.private|Isfahan.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Iran/City/Isfahan.personal|Isfahan.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Iran/City/Isfahan.secret|Isfahan.secret]] 
+
+### #is_/same_as :: [Isfahan](/_Standards/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Esfahan/City/Isfahan.md) 
+
+### #is_/same_as :: [Isfahan.public](/_public/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Esfahan/City/Isfahan.public.md) 
+
+### #is_/same_as :: [Isfahan.internal](/_internal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Esfahan/City/Isfahan.internal.md) 
+
+### #is_/same_as :: [Isfahan.protect](/_protect/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Esfahan/City/Isfahan.protect.md) 
+
+### #is_/same_as :: [Isfahan.private](/_private/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Esfahan/City/Isfahan.private.md) 
+
+### #is_/same_as :: [Isfahan.personal](/_personal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Esfahan/City/Isfahan.personal.md) 
+
+### #is_/same_as :: [Isfahan.secret](/_secret/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Esfahan/City/Isfahan.secret.md)
+

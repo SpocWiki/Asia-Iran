@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Astara|Astara]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Astara.public|Astara.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Astara.internal|Astara.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Astara.protect|Astara.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Astara.private|Astara.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Astara.personal|Astara.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Astara.secret|Astara.secret]] 
+
+### #is_/same_as :: [Astara](/_Standards/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Gilan/Astara.md) 
+
+### #is_/same_as :: [Astara.public](/_public/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Gilan/Astara.public.md) 
+
+### #is_/same_as :: [Astara.internal](/_internal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Gilan/Astara.internal.md) 
+
+### #is_/same_as :: [Astara.protect](/_protect/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Gilan/Astara.protect.md) 
+
+### #is_/same_as :: [Astara.private](/_private/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Gilan/Astara.private.md) 
+
+### #is_/same_as :: [Astara.personal](/_personal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Gilan/Astara.personal.md) 
+
+### #is_/same_as :: [Astara.secret](/_secret/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Gilan/Astara.secret.md)
+

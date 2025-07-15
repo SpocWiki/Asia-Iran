@@ -130,10 +130,4 @@ Capital :: [[Iran/Counties/Tehran/City/Teheran=Tehran]]
 
 
 
-## Confidential Links & Embeds: 
-- [[Iran|Iran]]  
-- [[../../../../../_internal/geo/Continent/Asia/Asia~West/Iran.internal|Iran.internal]]  
-- [[../../../../../_protect/geo/Continent/Asia/Asia~West/Iran.protect|Iran.protect]] 
-- [[../../../../../_private/geo/Continent/Asia/Asia~West/Iran.private|Iran.private]] 
-- [[../../../../../_personal/geo/Continent/Asia/Asia~West/Iran.personal|Iran.personal]] 
-- [[../../../../../_secret/geo/Continent/Asia/Asia~West/Iran.secret|Iran.secret]] 
+

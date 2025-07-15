@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Iran/City/Teheran=Tehran|Teheran=Tehran]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Iran/City/Teheran=Tehran.public|Teheran=Tehran.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Iran/City/Teheran=Tehran.internal|Teheran=Tehran.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Iran/City/Teheran=Tehran.protect|Teheran=Tehran.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Iran/City/Teheran=Tehran.private|Teheran=Tehran.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Iran/City/Teheran=Tehran.personal|Teheran=Tehran.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Iran/City/Teheran=Tehran.secret|Teheran=Tehran.secret]] 
+
+### #is_/same_as :: [Teheran=Tehran](/_Standards/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Tehran/City/Teheran=Tehran.md) 
+
+### #is_/same_as :: [Teheran=Tehran.public](/_public/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Tehran/City/Teheran=Tehran.public.md) 
+
+### #is_/same_as :: [Teheran=Tehran.internal](/_internal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Tehran/City/Teheran=Tehran.internal.md) 
+
+### #is_/same_as :: [Teheran=Tehran.protect](/_protect/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Tehran/City/Teheran=Tehran.protect.md) 
+
+### #is_/same_as :: [Teheran=Tehran.private](/_private/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Tehran/City/Teheran=Tehran.private.md) 
+
+### #is_/same_as :: [Teheran=Tehran.personal](/_personal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Tehran/City/Teheran=Tehran.personal.md) 
+
+### #is_/same_as :: [Teheran=Tehran.secret](/_secret/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Tehran/City/Teheran=Tehran.secret.md)
+

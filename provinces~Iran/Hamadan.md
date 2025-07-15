@@ -40,11 +40,18 @@ markerFolder: ./Hamadan/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Iran/Counties/Hamadan|Hamadan]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Iran/Counties/Hamadan.public|Hamadan.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Counties/Hamadan.internal|Hamadan.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Counties/Hamadan.protect|Hamadan.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Iran/Counties/Hamadan.private|Hamadan.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Counties/Hamadan.personal|Hamadan.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Counties/Hamadan.secret|Hamadan.secret]] 
+
+### #is_/same_as :: [Hamadan](/_Standards/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Hamadan.md) 
+
+### #is_/same_as :: [Hamadan.public](/_public/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Hamadan.public.md) 
+
+### #is_/same_as :: [Hamadan.internal](/_internal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Hamadan.internal.md) 
+
+### #is_/same_as :: [Hamadan.protect](/_protect/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Hamadan.protect.md) 
+
+### #is_/same_as :: [Hamadan.private](/_private/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Hamadan.private.md) 
+
+### #is_/same_as :: [Hamadan.personal](/_personal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Hamadan.personal.md) 
+
+### #is_/same_as :: [Hamadan.secret](/_secret/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Hamadan.secret.md)
 

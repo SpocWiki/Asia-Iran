@@ -40,11 +40,18 @@ markerFolder: ./Esfahan/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Iran/Counties/Esfahan|Esfahan]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Iran/Counties/Esfahan.public|Esfahan.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Counties/Esfahan.internal|Esfahan.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Counties/Esfahan.protect|Esfahan.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Iran/Counties/Esfahan.private|Esfahan.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Counties/Esfahan.personal|Esfahan.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Counties/Esfahan.secret|Esfahan.secret]] 
+
+### #is_/same_as :: [Esfahan](/_Standards/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Esfahan.md) 
+
+### #is_/same_as :: [Esfahan.public](/_public/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Esfahan.public.md) 
+
+### #is_/same_as :: [Esfahan.internal](/_internal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Esfahan.internal.md) 
+
+### #is_/same_as :: [Esfahan.protect](/_protect/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Esfahan.protect.md) 
+
+### #is_/same_as :: [Esfahan.private](/_private/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Esfahan.private.md) 
+
+### #is_/same_as :: [Esfahan.personal](/_personal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Esfahan.personal.md) 
+
+### #is_/same_as :: [Esfahan.secret](/_secret/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Esfahan.secret.md)
 

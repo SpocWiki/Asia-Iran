@@ -40,11 +40,18 @@ markerFolder: ./North_Khorasan/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Iran/Counties/North_Khorasan|North_Khorasan]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Iran/Counties/North_Khorasan.public|North_Khorasan.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Counties/North_Khorasan.internal|North_Khorasan.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Counties/North_Khorasan.protect|North_Khorasan.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Iran/Counties/North_Khorasan.private|North_Khorasan.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Counties/North_Khorasan.personal|North_Khorasan.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Counties/North_Khorasan.secret|North_Khorasan.secret]] 
+
+### #is_/same_as :: [North_Khorasan](/_Standards/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/North_Khorasan.md) 
+
+### #is_/same_as :: [North_Khorasan.public](/_public/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/North_Khorasan.public.md) 
+
+### #is_/same_as :: [North_Khorasan.internal](/_internal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/North_Khorasan.internal.md) 
+
+### #is_/same_as :: [North_Khorasan.protect](/_protect/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/North_Khorasan.protect.md) 
+
+### #is_/same_as :: [North_Khorasan.private](/_private/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/North_Khorasan.private.md) 
+
+### #is_/same_as :: [North_Khorasan.personal](/_personal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/North_Khorasan.personal.md) 
+
+### #is_/same_as :: [North_Khorasan.secret](/_secret/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/North_Khorasan.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Gilan/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Iran/Counties/Gilan|Gilan]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Iran/Counties/Gilan.public|Gilan.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Counties/Gilan.internal|Gilan.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Counties/Gilan.protect|Gilan.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Iran/Counties/Gilan.private|Gilan.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Counties/Gilan.personal|Gilan.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Counties/Gilan.secret|Gilan.secret]] 
+
+### #is_/same_as :: [Gilan](/_Standards/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Gilan.md) 
+
+### #is_/same_as :: [Gilan.public](/_public/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Gilan.public.md) 
+
+### #is_/same_as :: [Gilan.internal](/_internal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Gilan.internal.md) 
+
+### #is_/same_as :: [Gilan.protect](/_protect/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Gilan.protect.md) 
+
+### #is_/same_as :: [Gilan.private](/_private/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Gilan.private.md) 
+
+### #is_/same_as :: [Gilan.personal](/_personal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Gilan.personal.md) 
+
+### #is_/same_as :: [Gilan.secret](/_secret/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Gilan.secret.md)
 

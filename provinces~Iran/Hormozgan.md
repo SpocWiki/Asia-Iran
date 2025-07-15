@@ -40,11 +40,18 @@ markerFolder: ./Hormozgan/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Iran/Counties/Hormozgan|Hormozgan]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Iran/Counties/Hormozgan.public|Hormozgan.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Counties/Hormozgan.internal|Hormozgan.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Counties/Hormozgan.protect|Hormozgan.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Iran/Counties/Hormozgan.private|Hormozgan.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Counties/Hormozgan.personal|Hormozgan.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Counties/Hormozgan.secret|Hormozgan.secret]] 
+
+### #is_/same_as :: [Hormozgan](/_Standards/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Hormozgan.md) 
+
+### #is_/same_as :: [Hormozgan.public](/_public/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Hormozgan.public.md) 
+
+### #is_/same_as :: [Hormozgan.internal](/_internal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Hormozgan.internal.md) 
+
+### #is_/same_as :: [Hormozgan.protect](/_protect/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Hormozgan.protect.md) 
+
+### #is_/same_as :: [Hormozgan.private](/_private/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Hormozgan.private.md) 
+
+### #is_/same_as :: [Hormozgan.personal](/_personal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Hormozgan.personal.md) 
+
+### #is_/same_as :: [Hormozgan.secret](/_secret/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Hormozgan.secret.md)
 

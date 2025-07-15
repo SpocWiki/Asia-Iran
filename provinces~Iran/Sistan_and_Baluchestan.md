@@ -40,11 +40,18 @@ markerFolder: ./Sistan_and_Baluchestan/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Iran/Counties/Sistan_and_Baluchestan|Sistan_and_Baluchestan]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Iran/Counties/Sistan_and_Baluchestan.public|Sistan_and_Baluchestan.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Counties/Sistan_and_Baluchestan.internal|Sistan_and_Baluchestan.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Counties/Sistan_and_Baluchestan.protect|Sistan_and_Baluchestan.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Iran/Counties/Sistan_and_Baluchestan.private|Sistan_and_Baluchestan.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Counties/Sistan_and_Baluchestan.personal|Sistan_and_Baluchestan.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Counties/Sistan_and_Baluchestan.secret|Sistan_and_Baluchestan.secret]] 
+
+### #is_/same_as :: [Sistan_and_Baluchestan](/_Standards/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Sistan_and_Baluchestan.md) 
+
+### #is_/same_as :: [Sistan_and_Baluchestan.public](/_public/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Sistan_and_Baluchestan.public.md) 
+
+### #is_/same_as :: [Sistan_and_Baluchestan.internal](/_internal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Sistan_and_Baluchestan.internal.md) 
+
+### #is_/same_as :: [Sistan_and_Baluchestan.protect](/_protect/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Sistan_and_Baluchestan.protect.md) 
+
+### #is_/same_as :: [Sistan_and_Baluchestan.private](/_private/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Sistan_and_Baluchestan.private.md) 
+
+### #is_/same_as :: [Sistan_and_Baluchestan.personal](/_personal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Sistan_and_Baluchestan.personal.md) 
+
+### #is_/same_as :: [Sistan_and_Baluchestan.secret](/_secret/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Sistan_and_Baluchestan.secret.md)
 

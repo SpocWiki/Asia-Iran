@@ -40,11 +40,18 @@ markerFolder: ./Razavi_Khorasan/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Iran/Counties/Razavi_Khorasan|Razavi_Khorasan]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Iran/Counties/Razavi_Khorasan.public|Razavi_Khorasan.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Counties/Razavi_Khorasan.internal|Razavi_Khorasan.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Counties/Razavi_Khorasan.protect|Razavi_Khorasan.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Iran/Counties/Razavi_Khorasan.private|Razavi_Khorasan.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Counties/Razavi_Khorasan.personal|Razavi_Khorasan.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Counties/Razavi_Khorasan.secret|Razavi_Khorasan.secret]] 
+
+### #is_/same_as :: [Razavi_Khorasan](/_Standards/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Razavi_Khorasan.md) 
+
+### #is_/same_as :: [Razavi_Khorasan.public](/_public/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Razavi_Khorasan.public.md) 
+
+### #is_/same_as :: [Razavi_Khorasan.internal](/_internal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Razavi_Khorasan.internal.md) 
+
+### #is_/same_as :: [Razavi_Khorasan.protect](/_protect/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Razavi_Khorasan.protect.md) 
+
+### #is_/same_as :: [Razavi_Khorasan.private](/_private/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Razavi_Khorasan.private.md) 
+
+### #is_/same_as :: [Razavi_Khorasan.personal](/_personal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Razavi_Khorasan.personal.md) 
+
+### #is_/same_as :: [Razavi_Khorasan.secret](/_secret/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Razavi_Khorasan.secret.md)
 

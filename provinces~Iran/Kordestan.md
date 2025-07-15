@@ -40,11 +40,18 @@ markerFolder: ./Kordestan/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Iran/Counties/Kordestan|Kordestan]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Iran/Counties/Kordestan.public|Kordestan.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Counties/Kordestan.internal|Kordestan.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Counties/Kordestan.protect|Kordestan.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Iran/Counties/Kordestan.private|Kordestan.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Counties/Kordestan.personal|Kordestan.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Counties/Kordestan.secret|Kordestan.secret]] 
+
+### #is_/same_as :: [Kordestan](/_Standards/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Kordestan.md) 
+
+### #is_/same_as :: [Kordestan.public](/_public/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Kordestan.public.md) 
+
+### #is_/same_as :: [Kordestan.internal](/_internal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Kordestan.internal.md) 
+
+### #is_/same_as :: [Kordestan.protect](/_protect/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Kordestan.protect.md) 
+
+### #is_/same_as :: [Kordestan.private](/_private/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Kordestan.private.md) 
+
+### #is_/same_as :: [Kordestan.personal](/_personal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Kordestan.personal.md) 
+
+### #is_/same_as :: [Kordestan.secret](/_secret/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Kordestan.secret.md)
 
