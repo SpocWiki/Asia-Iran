@@ -27,7 +27,7 @@ publishDate:
 expiryDate: 
 ---
 
-# Alborz
+# [[Alborz]]
 
 ```leaflet
 id: Alborz
@@ -38,6 +38,15 @@ geojsonFolder: ./Alborz/
 markerFolder: ./Alborz/
 ```
 
+#is_/same_as :: [[_Standards/WikiData/WD~Alborz_Province,392522]]  
+
+## #has_/text_of_/abstract 
+
+> Alborz province (Persian: استان البرز) is one of the 31 provinces of Iran. 
+> Its capital is the city of Karaj, which lies 10 km west of Tehran, at the foothills of the Alborz mountains. 
+> Alborz is Iran's smallest province in area.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Alborz%20province) 
 
 ## Confidential Links & Embeds: 
 
