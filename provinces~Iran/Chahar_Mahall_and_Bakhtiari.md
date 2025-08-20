@@ -1,30 +1,29 @@
 ---
-location: [ 31.9 , 50.7 ] 
+location:
+  - 31.9
+  - 50.7
 type: geo-Region
 title: Chahar_Mahall_and_Bakhtiari
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- Chahar_Mahall_and_Bakhtiari
-
+  - Chahar_Mahall_and_Bakhtiari
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 ---
 
 # Chahar_Mahall_and_Bakhtiari
