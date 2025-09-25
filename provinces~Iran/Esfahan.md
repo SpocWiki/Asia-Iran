@@ -33,7 +33,7 @@ id: Esfahan
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Esfahan/
+geojsonFolder: ./Esfahan//
 markerFolder: ./Esfahan/
 ```
 
