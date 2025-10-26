@@ -33,7 +33,7 @@ id: Fars
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Fars/
+geojsonFolder: ./Fars//
 markerFolder: ./Fars/
 ```
 
