@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Teheran=Tehran](/_Standards/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Tehran/City/Teheran=Tehran.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Tehran/City/Teheran=Tehran|Teheran=Tehran]] 
 
-### #is_/same_as :: [Teheran=Tehran.public](/_public/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Tehran/City/Teheran=Tehran.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Tehran/City/Teheran=Tehran.public|Teheran=Tehran.public]] 
 
-### #is_/same_as :: [Teheran=Tehran.internal](/_internal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Tehran/City/Teheran=Tehran.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Tehran/City/Teheran=Tehran.internal|Teheran=Tehran.internal]] 
 
-### #is_/same_as :: [Teheran=Tehran.protect](/_protect/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Tehran/City/Teheran=Tehran.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Tehran/City/Teheran=Tehran.protect|Teheran=Tehran.protect]] 
 
-### #is_/same_as :: [Teheran=Tehran.private](/_private/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Tehran/City/Teheran=Tehran.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Tehran/City/Teheran=Tehran.private|Teheran=Tehran.private]] 
 
-### #is_/same_as :: [Teheran=Tehran.personal](/_personal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Tehran/City/Teheran=Tehran.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Tehran/City/Teheran=Tehran.personal|Teheran=Tehran.personal]] 
 
-### #is_/same_as :: [Teheran=Tehran.secret](/_secret/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Tehran/City/Teheran=Tehran.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Tehran/City/Teheran=Tehran.secret|Teheran=Tehran.secret]] 
 

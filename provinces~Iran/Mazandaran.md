@@ -40,17 +40,17 @@ markerFolder: ./Mazandaran/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mazandaran](/_Standards/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Mazandaran.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Mazandaran|Mazandaran]] 
 
-### #is_/same_as :: [Mazandaran.public](/_public/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Mazandaran.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Mazandaran.public|Mazandaran.public]] 
 
-### #is_/same_as :: [Mazandaran.internal](/_internal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Mazandaran.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Mazandaran.internal|Mazandaran.internal]] 
 
-### #is_/same_as :: [Mazandaran.protect](/_protect/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Mazandaran.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Mazandaran.protect|Mazandaran.protect]] 
 
-### #is_/same_as :: [Mazandaran.private](/_private/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Mazandaran.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Mazandaran.private|Mazandaran.private]] 
 
-### #is_/same_as :: [Mazandaran.personal](/_personal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Mazandaran.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Mazandaran.personal|Mazandaran.personal]] 
 
-### #is_/same_as :: [Mazandaran.secret](/_secret/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Mazandaran.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Mazandaran.secret|Mazandaran.secret]] 
 

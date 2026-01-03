@@ -50,3 +50,20 @@ Commons_category: Iranian Plateau
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Iranian%20plateau) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Iran/Iranian_Plateau|Iranian_Plateau]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Iran/Iranian_Plateau.public|Iranian_Plateau.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Iran/Iranian_Plateau.internal|Iranian_Plateau.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Iran/Iranian_Plateau.protect|Iranian_Plateau.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Iran/Iranian_Plateau.private|Iranian_Plateau.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Iran/Iranian_Plateau.personal|Iranian_Plateau.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Iran/Iranian_Plateau.secret|Iranian_Plateau.secret]] 
+

@@ -40,17 +40,17 @@ markerFolder: ./Kermanshah/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kermanshah](/_Standards/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Kermanshah.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Kermanshah|Kermanshah]] 
 
-### #is_/same_as :: [Kermanshah.public](/_public/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Kermanshah.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Kermanshah.public|Kermanshah.public]] 
 
-### #is_/same_as :: [Kermanshah.internal](/_internal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Kermanshah.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Kermanshah.internal|Kermanshah.internal]] 
 
-### #is_/same_as :: [Kermanshah.protect](/_protect/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Kermanshah.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Kermanshah.protect|Kermanshah.protect]] 
 
-### #is_/same_as :: [Kermanshah.private](/_private/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Kermanshah.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Kermanshah.private|Kermanshah.private]] 
 
-### #is_/same_as :: [Kermanshah.personal](/_personal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Kermanshah.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Kermanshah.personal|Kermanshah.personal]] 
 
-### #is_/same_as :: [Kermanshah.secret](/_secret/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Kermanshah.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Kermanshah.secret|Kermanshah.secret]] 
 

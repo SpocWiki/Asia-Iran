@@ -40,17 +40,17 @@ markerFolder: ./Qazvin/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Qazvin](/_Standards/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Qazvin.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Qazvin|Qazvin]] 
 
-### #is_/same_as :: [Qazvin.public](/_public/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Qazvin.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Qazvin.public|Qazvin.public]] 
 
-### #is_/same_as :: [Qazvin.internal](/_internal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Qazvin.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Qazvin.internal|Qazvin.internal]] 
 
-### #is_/same_as :: [Qazvin.protect](/_protect/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Qazvin.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Qazvin.protect|Qazvin.protect]] 
 
-### #is_/same_as :: [Qazvin.private](/_private/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Qazvin.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Qazvin.private|Qazvin.private]] 
 
-### #is_/same_as :: [Qazvin.personal](/_personal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Qazvin.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Qazvin.personal|Qazvin.personal]] 
 
-### #is_/same_as :: [Qazvin.secret](/_secret/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Qazvin.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Qazvin.secret|Qazvin.secret]] 
 

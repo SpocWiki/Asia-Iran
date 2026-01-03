@@ -169,17 +169,17 @@ defaultZoom: 5
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tehran](/_Standards/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Tehran.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Tehran|Tehran]] 
 
-### #is_/same_as :: [Tehran.public](/_public/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Tehran.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Tehran.public|Tehran.public]] 
 
-### #is_/same_as :: [Tehran.internal](/_internal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Tehran.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Tehran.internal|Tehran.internal]] 
 
-### #is_/same_as :: [Tehran.protect](/_protect/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Tehran.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Tehran.protect|Tehran.protect]] 
 
-### #is_/same_as :: [Tehran.private](/_private/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Tehran.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Tehran.private|Tehran.private]] 
 
-### #is_/same_as :: [Tehran.personal](/_personal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Tehran.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Tehran.personal|Tehran.personal]] 
 
-### #is_/same_as :: [Tehran.secret](/_secret/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Tehran.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Tehran.secret|Tehran.secret]] 
 

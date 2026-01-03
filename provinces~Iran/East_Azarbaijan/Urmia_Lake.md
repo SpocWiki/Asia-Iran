@@ -86,3 +86,20 @@ native_label: دریاچه ارومیه
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Lake%20Urmia) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/East_Azarbaijan/Urmia_Lake|Urmia_Lake]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/East_Azarbaijan/Urmia_Lake.public|Urmia_Lake.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/East_Azarbaijan/Urmia_Lake.internal|Urmia_Lake.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/East_Azarbaijan/Urmia_Lake.protect|Urmia_Lake.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/East_Azarbaijan/Urmia_Lake.private|Urmia_Lake.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/East_Azarbaijan/Urmia_Lake.personal|Urmia_Lake.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/East_Azarbaijan/Urmia_Lake.secret|Urmia_Lake.secret]] 
+

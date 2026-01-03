@@ -42,3 +42,20 @@ Krugosvet_article_archived_: istoriya/PERSIYA_DREVNYAYA_TSIVILIZATSIYA.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20Iran) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Iran/History_of_Iran|History_of_Iran]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Iran/History_of_Iran.public|History_of_Iran.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Iran/History_of_Iran.internal|History_of_Iran.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Iran/History_of_Iran.protect|History_of_Iran.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Iran/History_of_Iran.private|History_of_Iran.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Iran/History_of_Iran.personal|History_of_Iran.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Iran/History_of_Iran.secret|History_of_Iran.secret]] 
+

@@ -94,3 +94,20 @@ Krugosvet_article_archived_: istoriya/PERSEPOL.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Persepolis) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Fars/counties~Fars/Marvdasht/Persepolis|Persepolis]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Fars/counties~Fars/Marvdasht/Persepolis.public|Persepolis.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Fars/counties~Fars/Marvdasht/Persepolis.internal|Persepolis.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Fars/counties~Fars/Marvdasht/Persepolis.protect|Persepolis.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Fars/counties~Fars/Marvdasht/Persepolis.private|Persepolis.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Fars/counties~Fars/Marvdasht/Persepolis.personal|Persepolis.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Fars/counties~Fars/Marvdasht/Persepolis.secret|Persepolis.secret]] 
+

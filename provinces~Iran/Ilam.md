@@ -40,17 +40,17 @@ markerFolder: ./Ilam/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ilam](/_Standards/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Ilam.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Ilam|Ilam]] 
 
-### #is_/same_as :: [Ilam.public](/_public/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Ilam.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Ilam.public|Ilam.public]] 
 
-### #is_/same_as :: [Ilam.internal](/_internal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Ilam.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Ilam.internal|Ilam.internal]] 
 
-### #is_/same_as :: [Ilam.protect](/_protect/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Ilam.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Ilam.protect|Ilam.protect]] 
 
-### #is_/same_as :: [Ilam.private](/_private/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Ilam.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Ilam.private|Ilam.private]] 
 
-### #is_/same_as :: [Ilam.personal](/_personal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Ilam.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Ilam.personal|Ilam.personal]] 
 
-### #is_/same_as :: [Ilam.secret](/_secret/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Ilam.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Ilam.secret|Ilam.secret]] 
 

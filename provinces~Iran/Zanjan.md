@@ -40,17 +40,17 @@ markerFolder: ./Zanjan/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zanjan](/_Standards/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Zanjan.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Zanjan|Zanjan]] 
 
-### #is_/same_as :: [Zanjan.public](/_public/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Zanjan.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Zanjan.public|Zanjan.public]] 
 
-### #is_/same_as :: [Zanjan.internal](/_internal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Zanjan.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Zanjan.internal|Zanjan.internal]] 
 
-### #is_/same_as :: [Zanjan.protect](/_protect/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Zanjan.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Zanjan.protect|Zanjan.protect]] 
 
-### #is_/same_as :: [Zanjan.private](/_private/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Zanjan.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Zanjan.private|Zanjan.private]] 
 
-### #is_/same_as :: [Zanjan.personal](/_personal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Zanjan.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Zanjan.personal|Zanjan.personal]] 
 
-### #is_/same_as :: [Zanjan.secret](/_secret/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Zanjan.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Zanjan.secret|Zanjan.secret]] 
 

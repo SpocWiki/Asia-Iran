@@ -68,3 +68,20 @@ locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Susa%20map
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Susa) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Khuzestan/counties~Khuzestan/Shush/Susa|Susa]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Khuzestan/counties~Khuzestan/Shush/Susa.public|Susa.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Khuzestan/counties~Khuzestan/Shush/Susa.internal|Susa.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Khuzestan/counties~Khuzestan/Shush/Susa.protect|Susa.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Khuzestan/counties~Khuzestan/Shush/Susa.private|Susa.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Khuzestan/counties~Khuzestan/Shush/Susa.personal|Susa.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Khuzestan/counties~Khuzestan/Shush/Susa.secret|Susa.secret]] 
+

@@ -87,3 +87,20 @@ inception: 1501-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Safavid%20dynasty) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Iran/1501-Safavid_Dynasty+1736|1501-Safavid_Dynasty+1736]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Iran/1501-Safavid_Dynasty+1736.public|1501-Safavid_Dynasty+1736.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Iran/1501-Safavid_Dynasty+1736.internal|1501-Safavid_Dynasty+1736.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Iran/1501-Safavid_Dynasty+1736.protect|1501-Safavid_Dynasty+1736.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Iran/1501-Safavid_Dynasty+1736.private|1501-Safavid_Dynasty+1736.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Iran/1501-Safavid_Dynasty+1736.personal|1501-Safavid_Dynasty+1736.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Iran/1501-Safavid_Dynasty+1736.secret|1501-Safavid_Dynasty+1736.secret]] 
+

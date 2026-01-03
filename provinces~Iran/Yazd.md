@@ -40,17 +40,17 @@ markerFolder: ./Yazd/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Yazd](/_Standards/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Yazd.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Yazd|Yazd]] 
 
-### #is_/same_as :: [Yazd.public](/_public/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Yazd.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Yazd.public|Yazd.public]] 
 
-### #is_/same_as :: [Yazd.internal](/_internal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Yazd.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Yazd.internal|Yazd.internal]] 
 
-### #is_/same_as :: [Yazd.protect](/_protect/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Yazd.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Yazd.protect|Yazd.protect]] 
 
-### #is_/same_as :: [Yazd.private](/_private/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Yazd.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Yazd.private|Yazd.private]] 
 
-### #is_/same_as :: [Yazd.personal](/_personal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Yazd.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Yazd.personal|Yazd.personal]] 
 
-### #is_/same_as :: [Yazd.secret](/_secret/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Yazd.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Yazd.secret|Yazd.secret]] 
 

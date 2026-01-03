@@ -40,17 +40,17 @@ markerFolder: ./Ardebil/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ardebil](/_Standards/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Ardebil.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Ardebil|Ardebil]] 
 
-### #is_/same_as :: [Ardebil.public](/_public/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Ardebil.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Ardebil.public|Ardebil.public]] 
 
-### #is_/same_as :: [Ardebil.internal](/_internal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Ardebil.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Ardebil.internal|Ardebil.internal]] 
 
-### #is_/same_as :: [Ardebil.protect](/_protect/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Ardebil.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Ardebil.protect|Ardebil.protect]] 
 
-### #is_/same_as :: [Ardebil.private](/_private/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Ardebil.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Ardebil.private|Ardebil.private]] 
 
-### #is_/same_as :: [Ardebil.personal](/_personal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Ardebil.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Ardebil.personal|Ardebil.personal]] 
 
-### #is_/same_as :: [Ardebil.secret](/_secret/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Ardebil.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Ardebil.secret|Ardebil.secret]] 
 

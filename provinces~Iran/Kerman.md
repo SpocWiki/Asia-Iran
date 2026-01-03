@@ -40,17 +40,17 @@ markerFolder: ./Kerman/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kerman](/_Standards/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Kerman.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Kerman|Kerman]] 
 
-### #is_/same_as :: [Kerman.public](/_public/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Kerman.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Kerman.public|Kerman.public]] 
 
-### #is_/same_as :: [Kerman.internal](/_internal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Kerman.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Kerman.internal|Kerman.internal]] 
 
-### #is_/same_as :: [Kerman.protect](/_protect/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Kerman.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Kerman.protect|Kerman.protect]] 
 
-### #is_/same_as :: [Kerman.private](/_private/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Kerman.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Kerman.private|Kerman.private]] 
 
-### #is_/same_as :: [Kerman.personal](/_personal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Kerman.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Kerman.personal|Kerman.personal]] 
 
-### #is_/same_as :: [Kerman.secret](/_secret/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Kerman.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Kerman.secret|Kerman.secret]] 
 

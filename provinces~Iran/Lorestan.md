@@ -40,17 +40,17 @@ markerFolder: ./Lorestan/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lorestan](/_Standards/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Lorestan.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Lorestan|Lorestan]] 
 
-### #is_/same_as :: [Lorestan.public](/_public/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Lorestan.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Lorestan.public|Lorestan.public]] 
 
-### #is_/same_as :: [Lorestan.internal](/_internal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Lorestan.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Lorestan.internal|Lorestan.internal]] 
 
-### #is_/same_as :: [Lorestan.protect](/_protect/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Lorestan.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Lorestan.protect|Lorestan.protect]] 
 
-### #is_/same_as :: [Lorestan.private](/_private/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Lorestan.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Lorestan.private|Lorestan.private]] 
 
-### #is_/same_as :: [Lorestan.personal](/_personal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Lorestan.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Lorestan.personal|Lorestan.personal]] 
 
-### #is_/same_as :: [Lorestan.secret](/_secret/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Lorestan.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Lorestan.secret|Lorestan.secret]] 
 

@@ -140,3 +140,20 @@ Wolfram_Language_entity_code: Entity["HistoricalCountry", "SassanidEmpire"]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sasanian%20Empire) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Iran/History_of_Iran/0224-Sasanian_Empire+0651|0224-Sasanian_Empire+0651]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Iran/History_of_Iran/0224-Sasanian_Empire+0651.public|0224-Sasanian_Empire+0651.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Iran/History_of_Iran/0224-Sasanian_Empire+0651.internal|0224-Sasanian_Empire+0651.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Iran/History_of_Iran/0224-Sasanian_Empire+0651.protect|0224-Sasanian_Empire+0651.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Iran/History_of_Iran/0224-Sasanian_Empire+0651.private|0224-Sasanian_Empire+0651.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Iran/History_of_Iran/0224-Sasanian_Empire+0651.personal|0224-Sasanian_Empire+0651.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Iran/History_of_Iran/0224-Sasanian_Empire+0651.secret|0224-Sasanian_Empire+0651.secret]] 
+

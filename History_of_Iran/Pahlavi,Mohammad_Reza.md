@@ -139,3 +139,20 @@ date_of_birth: 1919-10-26T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mohammad%20Reza%20Pahlavi) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Iran/History_of_Iran/Pahlavi,Mohammad_Reza|Pahlavi,Mohammad_Reza]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Iran/History_of_Iran/Pahlavi,Mohammad_Reza.public|Pahlavi,Mohammad_Reza.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Iran/History_of_Iran/Pahlavi,Mohammad_Reza.internal|Pahlavi,Mohammad_Reza.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Iran/History_of_Iran/Pahlavi,Mohammad_Reza.protect|Pahlavi,Mohammad_Reza.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Iran/History_of_Iran/Pahlavi,Mohammad_Reza.private|Pahlavi,Mohammad_Reza.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Iran/History_of_Iran/Pahlavi,Mohammad_Reza.personal|Pahlavi,Mohammad_Reza.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Iran/History_of_Iran/Pahlavi,Mohammad_Reza.secret|Pahlavi,Mohammad_Reza.secret]] 
+

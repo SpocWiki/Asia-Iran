@@ -60,3 +60,20 @@ minZoom: 6
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Zagros%20Mountains) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Iran/Zagros_Mountains|Zagros_Mountains]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Iran/Zagros_Mountains.public|Zagros_Mountains.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Iran/Zagros_Mountains.internal|Zagros_Mountains.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Iran/Zagros_Mountains.protect|Zagros_Mountains.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Iran/Zagros_Mountains.private|Zagros_Mountains.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Iran/Zagros_Mountains.personal|Zagros_Mountains.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Iran/Zagros_Mountains.secret|Zagros_Mountains.secret]] 
+

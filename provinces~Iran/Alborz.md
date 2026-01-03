@@ -47,19 +47,20 @@ markerFolder: ./Alborz/
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Alborz%20province) 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Alborz](/_Standards/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Alborz.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Alborz|Alborz]] 
 
-### #is_/same_as :: [Alborz.public](/_public/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Alborz.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Alborz.public|Alborz.public]] 
 
-### #is_/same_as :: [Alborz.internal](/_internal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Alborz.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Alborz.internal|Alborz.internal]] 
 
-### #is_/same_as :: [Alborz.protect](/_protect/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Alborz.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Alborz.protect|Alborz.protect]] 
 
-### #is_/same_as :: [Alborz.private](/_private/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Alborz.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Alborz.private|Alborz.private]] 
 
-### #is_/same_as :: [Alborz.personal](/_personal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Alborz.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Alborz.personal|Alborz.personal]] 
 
-### #is_/same_as :: [Alborz.secret](/_secret/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Alborz.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Alborz.secret|Alborz.secret]] 
 

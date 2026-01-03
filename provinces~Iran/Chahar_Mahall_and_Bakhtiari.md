@@ -40,17 +40,17 @@ markerFolder: ./Chahar_Mahall_and_Bakhtiari/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Chahar_Mahall_and_Bakhtiari](/_Standards/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Chahar_Mahall_and_Bakhtiari.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Chahar_Mahall_and_Bakhtiari|Chahar_Mahall_and_Bakhtiari]] 
 
-### #is_/same_as :: [Chahar_Mahall_and_Bakhtiari.public](/_public/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Chahar_Mahall_and_Bakhtiari.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Chahar_Mahall_and_Bakhtiari.public|Chahar_Mahall_and_Bakhtiari.public]] 
 
-### #is_/same_as :: [Chahar_Mahall_and_Bakhtiari.internal](/_internal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Chahar_Mahall_and_Bakhtiari.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Chahar_Mahall_and_Bakhtiari.internal|Chahar_Mahall_and_Bakhtiari.internal]] 
 
-### #is_/same_as :: [Chahar_Mahall_and_Bakhtiari.protect](/_protect/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Chahar_Mahall_and_Bakhtiari.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Chahar_Mahall_and_Bakhtiari.protect|Chahar_Mahall_and_Bakhtiari.protect]] 
 
-### #is_/same_as :: [Chahar_Mahall_and_Bakhtiari.private](/_private/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Chahar_Mahall_and_Bakhtiari.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Chahar_Mahall_and_Bakhtiari.private|Chahar_Mahall_and_Bakhtiari.private]] 
 
-### #is_/same_as :: [Chahar_Mahall_and_Bakhtiari.personal](/_personal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Chahar_Mahall_and_Bakhtiari.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Chahar_Mahall_and_Bakhtiari.personal|Chahar_Mahall_and_Bakhtiari.personal]] 
 
-### #is_/same_as :: [Chahar_Mahall_and_Bakhtiari.secret](/_secret/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Chahar_Mahall_and_Bakhtiari.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Chahar_Mahall_and_Bakhtiari.secret|Chahar_Mahall_and_Bakhtiari.secret]] 
 

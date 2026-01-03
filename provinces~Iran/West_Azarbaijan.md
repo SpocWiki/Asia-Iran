@@ -40,17 +40,17 @@ markerFolder: ./West_Azarbaijan/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [West_Azarbaijan](/_Standards/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/West_Azarbaijan.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/West_Azarbaijan|West_Azarbaijan]] 
 
-### #is_/same_as :: [West_Azarbaijan.public](/_public/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/West_Azarbaijan.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/West_Azarbaijan.public|West_Azarbaijan.public]] 
 
-### #is_/same_as :: [West_Azarbaijan.internal](/_internal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/West_Azarbaijan.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/West_Azarbaijan.internal|West_Azarbaijan.internal]] 
 
-### #is_/same_as :: [West_Azarbaijan.protect](/_protect/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/West_Azarbaijan.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/West_Azarbaijan.protect|West_Azarbaijan.protect]] 
 
-### #is_/same_as :: [West_Azarbaijan.private](/_private/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/West_Azarbaijan.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/West_Azarbaijan.private|West_Azarbaijan.private]] 
 
-### #is_/same_as :: [West_Azarbaijan.personal](/_personal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/West_Azarbaijan.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/West_Azarbaijan.personal|West_Azarbaijan.personal]] 
 
-### #is_/same_as :: [West_Azarbaijan.secret](/_secret/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/West_Azarbaijan.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/West_Azarbaijan.secret|West_Azarbaijan.secret]] 
 

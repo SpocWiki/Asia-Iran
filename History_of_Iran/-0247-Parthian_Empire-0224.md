@@ -97,4 +97,19 @@ inception: -0246-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Parthian%20Empire) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Iran/History_of_Iran/-0247-Parthian_Empire-0224|-0247-Parthian_Empire-0224]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Iran/History_of_Iran/-0247-Parthian_Empire-0224.public|-0247-Parthian_Empire-0224.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Iran/History_of_Iran/-0247-Parthian_Empire-0224.internal|-0247-Parthian_Empire-0224.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Iran/History_of_Iran/-0247-Parthian_Empire-0224.protect|-0247-Parthian_Empire-0224.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Iran/History_of_Iran/-0247-Parthian_Empire-0224.private|-0247-Parthian_Empire-0224.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Iran/History_of_Iran/-0247-Parthian_Empire-0224.personal|-0247-Parthian_Empire-0224.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Iran/History_of_Iran/-0247-Parthian_Empire-0224.secret|-0247-Parthian_Empire-0224.secret]] 
 

@@ -135,18 +135,20 @@ maxZoom: 18
 > [Wikipedia](https://en.wikipedia.org/wiki/Isfahan) 
 > 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Isfahan](/_Standards/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Esfahan/City/Isfahan.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Esfahan/counties~Esfahan/Tiranand_Karvan/Isfahan|Isfahan]] 
 
-### #is_/same_as :: [Isfahan.public](/_public/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Esfahan/City/Isfahan.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Esfahan/counties~Esfahan/Tiranand_Karvan/Isfahan.public|Isfahan.public]] 
 
-### #is_/same_as :: [Isfahan.internal](/_internal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Esfahan/City/Isfahan.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Esfahan/counties~Esfahan/Tiranand_Karvan/Isfahan.internal|Isfahan.internal]] 
 
-### #is_/same_as :: [Isfahan.protect](/_protect/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Esfahan/City/Isfahan.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Esfahan/counties~Esfahan/Tiranand_Karvan/Isfahan.protect|Isfahan.protect]] 
 
-### #is_/same_as :: [Isfahan.private](/_private/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Esfahan/City/Isfahan.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Esfahan/counties~Esfahan/Tiranand_Karvan/Isfahan.private|Isfahan.private]] 
 
-### #is_/same_as :: [Isfahan.personal](/_personal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Esfahan/City/Isfahan.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Esfahan/counties~Esfahan/Tiranand_Karvan/Isfahan.personal|Isfahan.personal]] 
 
-### #is_/same_as :: [Isfahan.secret](/_secret/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Esfahan/City/Isfahan.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Esfahan/counties~Esfahan/Tiranand_Karvan/Isfahan.secret|Isfahan.secret]] 
+

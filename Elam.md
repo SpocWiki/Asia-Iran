@@ -68,3 +68,20 @@ dissolved_abolished_or_demolished_date: -0538-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Elam) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Iran/Elam|Elam]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Iran/Elam.public|Elam.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Iran/Elam.internal|Elam.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Iran/Elam.protect|Elam.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Iran/Elam.private|Elam.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Iran/Elam.personal|Elam.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Iran/Elam.secret|Elam.secret]] 
+

@@ -40,17 +40,17 @@ markerFolder: ./Golestan/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Golestan](/_Standards/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Golestan.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Golestan|Golestan]] 
 
-### #is_/same_as :: [Golestan.public](/_public/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Golestan.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Golestan.public|Golestan.public]] 
 
-### #is_/same_as :: [Golestan.internal](/_internal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Golestan.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Golestan.internal|Golestan.internal]] 
 
-### #is_/same_as :: [Golestan.protect](/_protect/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Golestan.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Golestan.protect|Golestan.protect]] 
 
-### #is_/same_as :: [Golestan.private](/_private/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Golestan.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Golestan.private|Golestan.private]] 
 
-### #is_/same_as :: [Golestan.personal](/_personal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Golestan.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Golestan.personal|Golestan.personal]] 
 
-### #is_/same_as :: [Golestan.secret](/_secret/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Golestan.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Golestan.secret|Golestan.secret]] 
 

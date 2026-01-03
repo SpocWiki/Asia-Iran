@@ -40,17 +40,17 @@ markerFolder: ./Bushehr/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bushehr](/_Standards/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Bushehr.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Bushehr|Bushehr]] 
 
-### #is_/same_as :: [Bushehr.public](/_public/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Bushehr.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Bushehr.public|Bushehr.public]] 
 
-### #is_/same_as :: [Bushehr.internal](/_internal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Bushehr.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Bushehr.internal|Bushehr.internal]] 
 
-### #is_/same_as :: [Bushehr.protect](/_protect/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Bushehr.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Bushehr.protect|Bushehr.protect]] 
 
-### #is_/same_as :: [Bushehr.private](/_private/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Bushehr.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Bushehr.private|Bushehr.private]] 
 
-### #is_/same_as :: [Bushehr.personal](/_personal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Bushehr.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Bushehr.personal|Bushehr.personal]] 
 
-### #is_/same_as :: [Bushehr.secret](/_secret/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Bushehr.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Bushehr.secret|Bushehr.secret]] 
 

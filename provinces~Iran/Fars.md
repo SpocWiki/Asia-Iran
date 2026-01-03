@@ -40,17 +40,17 @@ markerFolder: ./Fars/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fars](/_Standards/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Fars.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Fars|Fars]] 
 
-### #is_/same_as :: [Fars.public](/_public/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Fars.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Fars.public|Fars.public]] 
 
-### #is_/same_as :: [Fars.internal](/_internal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Fars.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Fars.internal|Fars.internal]] 
 
-### #is_/same_as :: [Fars.protect](/_protect/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Fars.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Fars.protect|Fars.protect]] 
 
-### #is_/same_as :: [Fars.private](/_private/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Fars.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Fars.private|Fars.private]] 
 
-### #is_/same_as :: [Fars.personal](/_personal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Fars.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Fars.personal|Fars.personal]] 
 
-### #is_/same_as :: [Fars.secret](/_secret/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Fars.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Iran/provinces~Iran/Fars.secret|Fars.secret]] 
 
