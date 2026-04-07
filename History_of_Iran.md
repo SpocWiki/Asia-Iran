@@ -4,20 +4,20 @@ aliases:
   - history of Persia
 has_id_wikidata: Q28926
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
-  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]"
-follows: "[[_Standards/WikiData/WD~prehistory_of_Iran,4164230]]"
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271|WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
+  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391|WD~Sytin_Military_Encyclopedia,4114391]]"
+  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630|WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]"
+follows: "[[_Standards/WikiData/WD~prehistory_of_Iran,4164230|WD~prehistory_of_Iran,4164230]]"
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Template_History_of_Iran,6828115]]"
-  - "[[_Standards/WikiData/WD~Template_History_of_Iran_by_period,22747378]]"
-instance_of: "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q110764668,110764668]]"
-facet_of: "[[_Standards/WikiData/WD~Iran,794]]"
+  - "[[_Standards/WikiData/WD~Template_History_of_Iran,6828115|WD~Template_History_of_Iran,6828115]]"
+  - "[[_Standards/WikiData/WD~Template_History_of_Iran_by_period,22747378|WD~Template_History_of_Iran_by_period,22747378]]"
+instance_of: "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377|WD~history_of_a_country_or_state,17544377]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Q110764668,110764668|WD~Q110764668,110764668]]"
+facet_of: "[[_Standards/WikiData/WD~Iran,794|WD~Iran,794]]"
 Dewey_Decimal_Classification: "955"
 Commons_category: History of Iran
 Krugosvet_article_archived_: istoriya/PERSIYA_DREVNYAYA_TSIVILIZATSIYA.html

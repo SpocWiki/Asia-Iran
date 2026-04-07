@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::35.67] 
 [name::Teheran=Tehran] 
 State ::  
-Country :: [[../../../../Iran]]  
+Country :: [[../../../../Iran|Iran]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 

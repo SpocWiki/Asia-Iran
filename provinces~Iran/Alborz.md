@@ -37,7 +37,7 @@ geojsonFolder: ./Alborz/
 markerFolder: ./Alborz/
 ```
 
-#is_/same_as :: [[_Standards/WikiData/WD~Alborz_Province,392522]]  
+#is_/same_as :: [[_Standards/WikiData/WD~Alborz_Province,392522|WD~Alborz_Province,392522]]  
 
 ## #has_/text_of_/abstract 
 

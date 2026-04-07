@@ -2,25 +2,25 @@
 aliases:
 has_id_wikidata: Q128904
 capital:
-  - "[[_Standards/WikiData/WD~Susa,180773]]"
-  - "[[_Standards/WikiData/WD~Anshan_Persia,569107]]"
-followed_by: "[[_Standards/WikiData/WD~Achaemenid_Empire,389688]]"
+  - "[[_Standards/WikiData/WD~Susa,180773|WD~Susa,180773]]"
+  - "[[_Standards/WikiData/WD~Anshan_Persia,569107|WD~Anshan_Persia,569107]]"
+followed_by: "[[_Standards/WikiData/WD~Achaemenid_Empire,389688|WD~Achaemenid_Empire,389688]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
-  - "[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]"
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271|WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
+  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758|WD~Desktop_Encyclopedic_Dictionary,63284758]]"
+  - "[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517|WD~Small_Soviet_Encyclopedia,66386517]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~historical_country,3024240]]"
-  - "[[_Standards/WikiData/WD~ancient_civilization,28171280]]"
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~Iran,794]]"
-continent: "[[_Standards/WikiData/WD~Asia,48]]"
-language_used: "[[_Standards/WikiData/WD~Elamite,35470]]"
+  - "[[_Standards/WikiData/WD~historical_country,3024240|WD~historical_country,3024240]]"
+  - "[[_Standards/WikiData/WD~ancient_civilization,28171280|WD~ancient_civilization,28171280]]"
+located_in_on_physical_feature: "[[_Standards/WikiData/WD~Iran,794|WD~Iran,794]]"
+continent: "[[_Standards/WikiData/WD~Asia,48|WD~Asia,48]]"
+language_used: "[[_Standards/WikiData/WD~Elamite,35470|WD~Elamite,35470]]"
 demonym:
   - Elamite
   - Elamitic

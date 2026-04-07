@@ -3,10 +3,10 @@ aliases:
   - Iranian plateau
   - Persian plateau
 has_id_wikidata: Q237660
-instance_of: "[[_Standards/WikiData/WD~plateau,75520]]"
-different_from: "[[_Standards/WikiData/WD~Iranian_Plate,1187892]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Iran,794]]"
-country: "[[_Standards/WikiData/WD~Iran,794]]"
+instance_of: "[[_Standards/WikiData/WD~plateau,75520|WD~plateau,75520]]"
+different_from: "[[_Standards/WikiData/WD~Iranian_Plate,1187892|WD~Iranian_Plate,1187892]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Iran,794|WD~Iran,794]]"
+country: "[[_Standards/WikiData/WD~Iran,794|WD~Iran,794]]"
 coordinate_location: Point(59.05 36.283333)
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Zagros%201992.jpg
 Commons_category: Iranian Plateau

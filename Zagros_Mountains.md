@@ -1,16 +1,16 @@
 ---
 aliases:
 has_id_wikidata: Q167021
-made_from_material: "[[_Standards/WikiData/WD~sedimentary_rock,82480]]"
-highest_point: "[[_Standards/WikiData/WD~Zard_Kuh,147826]]"
-part_of: "[[_Standards/WikiData/WD~Alpide_belt,847514]]"
+made_from_material: "[[_Standards/WikiData/WD~sedimentary_rock,82480|WD~sedimentary_rock,82480]]"
+highest_point: "[[_Standards/WikiData/WD~Zard_Kuh,147826|WD~Zard_Kuh,147826]]"
+part_of: "[[_Standards/WikiData/WD~Alpide_belt,847514|WD~Alpide_belt,847514]]"
 coordinate_location: Point(47.0 33.666667)
 country:
-  - "[[_Standards/WikiData/WD~Iran,794]]"
-  - "[[_Standards/WikiData/WD~Iraq,796]]"
+  - "[[_Standards/WikiData/WD~Iran,794|WD~Iran,794]]"
+  - "[[_Standards/WikiData/WD~Iraq,796|WD~Iraq,796]]"
 width: 300
 length: 1500
-instance_of: "[[_Standards/WikiData/WD~mountain_range,46831]]"
+instance_of: "[[_Standards/WikiData/WD~mountain_range,46831|WD~mountain_range,46831]]"
 elevation_above_sea_level: 4409
 area: 533512
 locator_map_image:

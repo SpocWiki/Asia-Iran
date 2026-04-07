@@ -9,8 +9,8 @@ has_id_wikidata: Q484725
 
 # [[Alborz_Mountains]] 
 
-#is_/part_of :: [[../../../../../Alpide_Belt]] 
-#is_/same_as :: [[../../../../../../../../../WikiData/WD~Alborz,484725]] 
+#is_/part_of :: [[../../../../../Alpide_Belt|Alpide_Belt]] 
+#is_/same_as :: [[../../../../../../../../../WikiData/WD~Alborz,484725|WD~Alborz,484725]] 
 
 ## #has_/text_of_/abstract 
 
@@ -19,7 +19,7 @@ has_id_wikidata: Q484725
 > and finally runs northeast and merges into the smaller Aladagh Mountains 
 > and borders in the northeast on the parallel mountain ridge Kopet Dag in the northern parts of Khorasan. 
 > 
-> All these mountains are part of the much larger [[../../../../../Alpide_Belt]]. 
+> All these mountains are part of the much larger [[../../../../../Alpide_Belt|Alpide_Belt]]. 
 > The Alborz range is divided into the Western, Central, and Eastern Alborz Mountains. 
 > - The Western Alborz Range (usually called the Talysh) runs south-southeastward 
 >   almost along the western coast of the Caspian Sea. 
