@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Chahar_Mahall_and_Bakhtiari/
 markerFolder: ./Chahar_Mahall_and_Bakhtiari/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

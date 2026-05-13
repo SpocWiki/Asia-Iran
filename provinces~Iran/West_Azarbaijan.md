@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./West_Azarbaijan/
 markerFolder: ./West_Azarbaijan/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

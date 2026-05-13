@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Yazd/
 markerFolder: ./Yazd/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

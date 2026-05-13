@@ -28,7 +28,7 @@ coordinates: [[Astara]]
 markerFile: [[Astara]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
