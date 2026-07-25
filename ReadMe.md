@@ -29,7 +29,7 @@ dv_UNTERM_Chinese_Formal: 伊朗伊斯兰共和国
 dv_UNTERM_French_Formal: la République islamique d'Iran
 dv_UNTERM_Russian: Иран (Исламская Республика)
 dv_UNTERM_Russian_Formal: Исламская Республика Иран
-dv_Region_Name: "[[../../Asia|Asia]]"
+dv_Region_Name: "[[../../../Asia|Asia]]"
 dv_Intermediate_Region_Name: "[[Iran]]"
 dv_Sub-region_Name: "[[Southern Asia]]"
 dv_Region: 142
@@ -53,7 +53,7 @@ dv_ISO2: IR
 dv_ISO3: IRN
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~Iran,794|WD~Iran,794]]"
+    - "[[../../../../../WikiData/WD~Iran,794|WD~Iran,794]]"
     - "[[/_Standards/Earth/Continent/Asia/Asia~West/Iran|Iran]]"
     - "[[/_public/Earth/Continent/Asia/Asia~West/Iran.public|Iran.public]]"
     - "[[/_internal/Earth/Continent/Asia/Asia~West/Iran.internal|Iran.internal]]"
@@ -400,16 +400,16 @@ dv_has_:
 dv_has_name_de: Iran (Islamic Republic of)
 dv_Area-Total: 1648000
 dv_Area-Land: 1636000
-dv_has_place_continent: "[[../../Asia|Asia]]"
+dv_has_place_continent: "[[../../../Asia|Asia]]"
 dv_VehicleCode: IR
-dv_Capital: "[[Iran/Counties/Tehran/City/Teheran=Tehran|Teheran=Tehran]]"
+dv_Capital: "[[Counties/Tehran/City/Teheran=Tehran|Teheran=Tehran]]"
 dv_Alcohol-l: 1
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
+dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 51.555
 dv_has_place_latitude: 34.175
 dv_developed_developing_countries: Developing
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Iran,794|WD~Iran,794]]"
+  - "[[../../../../../WikiData/WD~Iran,794|WD~Iran,794]]"
   - "[[/_Standards/Earth/Continent/Asia/Asia~West/Iran|Iran]]"
   - "[[/_public/Earth/Continent/Asia/Asia~West/Iran.public|Iran.public]]"
   - "[[/_internal/Earth/Continent/Asia/Asia~West/Iran.internal|Iran.internal]]"
@@ -682,7 +682,7 @@ demonym:
   - Iranien
   - إيرانيون
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[/_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271|WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
   - "[[/_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391|WD~Sytin_Military_Encyclopedia,4114391]]"
@@ -1129,7 +1129,7 @@ is_a = `=this.dv_is_a_`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Iran/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 
 ## #has_/map  
@@ -1151,7 +1151,7 @@ defaultZoom: 5
 
 ```leaflet
 id: Iran_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -1171,9 +1171,9 @@ darkMode: false
 
 [has_name_en::Iran]
 has_name_de = `=this.dv_has_name_de`
-![[Iran/Emblem_of_Iran.svg|350]]  
+![[Emblem_of_Iran.svg|350]]  
 
-![[Iran/Flag_of_Iran.svg|350]]  
+![[Flag_of_Iran.svg|350]]  
 
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
